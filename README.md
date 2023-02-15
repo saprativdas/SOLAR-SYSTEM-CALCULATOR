@@ -1,1 +1,2 @@
 # SOLAR-SYSTEM-CALCULATOR
+This program allows the user to enter their weight in either kilograms or pounds, then choose a planet to calculate their weight on. It then outputs their weight on the chosen planet in kilograms. The user can also choose to run the program again by simply rerunning the main() function.
